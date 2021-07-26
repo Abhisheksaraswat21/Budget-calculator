@@ -1,4 +1,13 @@
 # Getting Started with Create React App
+## To see how this app works, run this url in your browser.
+https://budget-calculator-abhi.web.app/
+
+<img src=">
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
