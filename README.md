@@ -2,7 +2,11 @@
 ## To see how this app works, run this url in your browser.
 https://budget-calculator-abhi.web.app/
 
+<br>
+<br>
+
 **THESE ARE SOME PREVIEWS OF THE APP.**
+<hr> <hr>
 <img src="budget-calculator1.png">
 <img src="budget-calculator2.png">
 <img src="budget-calculator3.png">
